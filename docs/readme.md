@@ -1,6 +1,7 @@
 # Mesila PRIA-s registreerimise juhend
 
-1. Suundu aadressile https://epria.pria.ee/epria/ ja logi sisse;
+
+1. Suundu [vanasse e-PRIA-sse](https://epria.pria.ee/epria/) ja logi sisse;
 2. Vali isik, keda soovid esindada (kas ennast eraisikuna või enda ettevõtet);
 3. Vali **Teenused** > **ANDMETE ESITAMINE**;
 4. Kui soovid:
