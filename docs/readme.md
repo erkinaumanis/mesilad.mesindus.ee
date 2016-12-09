@@ -7,4 +7,4 @@
   4.1. mesilat registreerida, vali teenus **Hoone või ala registreerimise taotlus** > **Registreeri loomapidamisala**.
   4.2. registreeritud mesilas pered arvu muuta, vali teenus **Mesilasperede arvu teatamine**.
 
-https://mesilad.mesindus.ee/ kaardile kantakse PRIA andmed 1x ööpäevas (kel 3 öösel). 
+[mesilad.mesindus.ee](https://mesilad.mesindus.ee/) kaardile kantakse PRIA andmed 1x ööpäevas (kel 3 öösel). 
