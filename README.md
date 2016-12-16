@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/honeymarket/mesilad.mesindus.ee.png?label=ready&title=Ready)](https://waffle.io/honeymarket/mesilad.mesindus.ee)
 # PRIA-s registreeritud mesilate andmed kaardil
 
 See projekt on tagasiside kogumiseks ja menetlemiseks aadressil https://mesilad.mesindus.ee asuva Eesti mesilate kaardile. 
